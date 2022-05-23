@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(157, 245, 26);
+}
+
+pre 
+{
+    margin-top: 100px;
+    margin-right: 30px;
+    border-right: 3px;
+    font-display: block;
+    font-family: monospace;
+    text-align: center;
+    
+
+}
+
